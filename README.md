@@ -52,4 +52,4 @@ This is a full-stack IoT project that tracks real-time GPS data using an ESP8266
 
 -> WORKING VIDEO
 
-
+https://github.com/user-attachments/assets/f2fe44cd-73b3-44a0-a5b5-8289c030a0e8
